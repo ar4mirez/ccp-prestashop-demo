@@ -1,0 +1,1 @@
+FROM prestashop/prestashop:latest
